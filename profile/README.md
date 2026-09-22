@@ -4,26 +4,16 @@ CUMBIAH is the Conservation Union for the Management of Baltic Harbour Porpoise 
 
 The work combines acoustic monitoring, population assessments, genetic and eDNA analyses, habitat mapping, stranding data, and stakeholder-driven policy recommendations. The overall goal is to support the long-term survival of Baltic harbour porpoises and to help member states meet conservation obligations under EU and international frameworks.
 
+This GitHub organisation holds code for some aspects of the CUMBIAH project, particularly, the detection function experiment. 
+
 ## Repositories in the CUMBIAH GitHub organization
 
 - [CUMBIAH/.github](https://github.com/CUMBIAH/.github)  
   Organization-level repository for shared GitHub metadata, profile content, and project-wide community information.
 
 - [CUMBIAH/cumbiah_landers_mat](https://github.com/CUMBIAH/cumbiah_landers_mat)  
-  MATLAB-based toolbox for analysis of CUMBIAH lander data, including processing and interpretation of field recordings and sensor data.
+  MATLAB-based toolbox for analysis of CUMBIAH lander data, including processing and interpretation of field recordings and sensor data, and localisation algorithms for detected porpoises.
 
 - [CUMBIAH/cumbiahdetfwebsite](https://github.com/CUMBIAH/cumbiahdetfwebsite)  
   Website for analysis and presentation of detection-function data within the CUMBIAH project, providing a digital interface for visualizing project outputs and analysis results.
 
-## Project focus
-
-CUMBIAH supports scientifically informed conservation by linking field data with management priorities. Its work includes:
-
-- population density and distribution analysis
-- habitat and threat assessment
-- bycatch and fishery-risk evaluation
-- acoustic monitoring and behavioural studies
-- genetic and ecological evidence for decision-making
-- communication of results to researchers, policymakers, and the public
-
-This GitHub organization hosts the code, analysis tools, and web resources used to support the project’s scientific and outreach work.
