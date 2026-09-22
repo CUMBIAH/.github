@@ -1,12 +1,29 @@
-## Hi there 👋
+## CUMBIAH
 
-<!--
+CUMBIAH is the Conservation Union for the Management of Baltic Harbour Porpoise Populations and their Habitats, a cross-border research and conservation initiative led by the [Deutsches Meeresmuseum](https://www.deutsches-meeresmuseum.de/en/science-research/projects/current-projects/cumbiah). The project brings together scientists, institutions, and stakeholders across the Baltic Sea region to improve understanding of harbour porpoise populations, assess threats such as bycatch and underwater noise, and provide the evidence base for effective conservation and management measures.
 
-**Here are some ideas to get you started:**
+The work combines acoustic monitoring, population assessments, genetic and eDNA analyses, habitat mapping, stranding data, and stakeholder-driven policy recommendations. The overall goal is to support the long-term survival of Baltic harbour porpoises and to help member states meet conservation obligations under EU and international frameworks.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories in the CUMBIAH GitHub organization
+
+- [CUMBIAH/.github](https://github.com/CUMBIAH/.github)  
+  Organization-level repository for shared GitHub metadata, profile content, and project-wide community information.
+
+- [CUMBIAH/cumbiah_landers_mat](https://github.com/CUMBIAH/cumbiah_landers_mat)  
+  MATLAB-based toolbox for analysis of CUMBIAH lander data, including processing and interpretation of field recordings and sensor data.
+
+- [CUMBIAH/cumbiahdetfwebsite](https://github.com/CUMBIAH/cumbiahdetfwebsite)  
+  Website for analysis and presentation of detection-function data within the CUMBIAH project, providing a digital interface for visualizing project outputs and analysis results.
+
+## Project focus
+
+CUMBIAH supports scientifically informed conservation by linking field data with management priorities. Its work includes:
+
+- population density and distribution analysis
+- habitat and threat assessment
+- bycatch and fishery-risk evaluation
+- acoustic monitoring and behavioural studies
+- genetic and ecological evidence for decision-making
+- communication of results to researchers, policymakers, and the public
+
+This GitHub organization hosts the code, analysis tools, and web resources used to support the project’s scientific and outreach work.
